@@ -1,0 +1,1 @@
+npm run-script twenty_hr_forecast_region
