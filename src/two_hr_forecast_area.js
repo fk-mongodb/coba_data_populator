@@ -24,7 +24,7 @@ async function main() {
    * See https://docs.mongodb.com/ecosystem/drivers/node/ for more details
    */
   const uri = `mongodb+srv://${process.env.MONGODB_USER}:${process.env.MONGODB_PASSWORD}@${params.HOST}/?retryWrites=true&w=majority&appName=${params.CLUSTER}`;
-
+  // const uri = `mongodb://${process.env.MONGODB_USER}:${process.env.MONGODB_PASSWORD}@13.212.62.149:27017`;
   const client = new MongoClient(uri);
 
   try {
