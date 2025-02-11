@@ -1,0 +1,1 @@
+npm run-script air_temperature
