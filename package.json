@@ -10,7 +10,8 @@
     "twenty_hr_forecast_region": "node src/twenty_hr_forecast_region.js",
     "twenty_hr_forecast_general": "node src/twenty_hr_forecast_general.js",
     "product_owner_transaction": "node src/product_owner_transaction.js",
-    "air_temperature": "node src/air_temperature.js"
+    "air_temperature": "node src/air_temperature.js",
+    "trx": "node src/trx.js"
   },
   "author": "",
   "license": "ISC",

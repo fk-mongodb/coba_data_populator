@@ -1,0 +1,1 @@
+mongosh "mongodb://fkadmin:fkpassword@prd-gcp-jkt-2-hixjx.g.query.mongodb.net/?ssl=true&authSource=admin"  --file src\retrieve.js
